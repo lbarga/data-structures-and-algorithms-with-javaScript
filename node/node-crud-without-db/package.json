@@ -1,0 +1,14 @@
+{
+  "name": "node-crud",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon app-v2.js"
+  },
+  "dependencies": {
+    "@faker-js/faker": "^8.0.2",
+    "cors": "^2.8.5",
+    "express": "^4.17.2"
+  }
+}
